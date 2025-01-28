@@ -55,7 +55,7 @@ int main() {
     return 0;
 }
 
-/*
+/* OUTPUT
 Enter the text to encrypt (uppercase letters only): VARSHA
 Enter the value of 'a' and 'b' for the Affine Cipher:
 a: 5
